@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "package": "cghRA",
+    "oncran": true
+  },
+  {
+    "package": "LPS",
+    "oncran": true
+  },
+  {
+    "package": "ODB",
+    "oncran": true
+  },
+  {
+    "package": "Rgb",
+    "oncran": true
+  }
+]
