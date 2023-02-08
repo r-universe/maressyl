@@ -15,3 +15,15 @@
 	shallow = true
 	subdir = ODB
 	registered = true
+[submodule "Rgb"]
+	path = Rgb
+	url = https://github.com/maressyl/r.rgb
+	shallow = true
+	subdir = Rgb
+	registered = true
+[submodule "cghRA"]
+	path = cghRA
+	url = https://github.com/maressyl/r.cghra
+	shallow = true
+	subdir = cghRA
+	registered = true
