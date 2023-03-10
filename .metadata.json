@@ -6,11 +6,5 @@
   {
     "package": "ODB",
     "oncran": true
-  },
-  {
-    "package": "Rgb"
-  },
-  {
-    "package": "cghRA"
   }
 ]
