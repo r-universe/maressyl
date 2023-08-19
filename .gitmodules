@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FSAtools"]
+	path = FSAtools
+	url = https://github.com/maressyl/r.fsatools
+	subdir = FSAtools
 [submodule "LPS"]
 	path = LPS
 	url = https://github.com/maressyl/r.lps
@@ -10,3 +14,7 @@
 	path = ODB
 	url = https://github.com/maressyl/r.odb
 	subdir = ODB
+[submodule "Rgb"]
+	path = Rgb
+	url = https://github.com/maressyl/r.rgb
+	subdir = Rgb
