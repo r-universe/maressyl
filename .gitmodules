@@ -10,7 +10,3 @@
 	path = ODB
 	url = https://github.com/maressyl/r.odb
 	subdir = ODB
-[submodule "Rgb"]
-	path = Rgb
-	url = https://github.com/maressyl/r.rgb
-	subdir = Rgb
