@@ -2,11 +2,3 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "LPS"]
-	path = LPS
-	url = https://github.com/maressyl/r.lps
-	subdir = LPS
-[submodule "ODB"]
-	path = ODB
-	url = https://github.com/maressyl/r.odb
-	subdir = ODB
